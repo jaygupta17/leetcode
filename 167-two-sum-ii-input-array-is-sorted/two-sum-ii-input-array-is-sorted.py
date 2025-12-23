@@ -1,6 +1,6 @@
 class Solution:
     def __init__(self):
-        for i in range(200):
+        for i in range(500):
             self.twoSum([0,0],0)
 
 
